@@ -1,6 +1,6 @@
 
 
-local whitelistecheck = loadstring(game:HttpGet("https://pastebin.com/raw/", true))()
+local whitelistecheck = loadstring(game:HttpGet("https://pastebin.com/raw/f8cWctTz", true))()
 
 if whitelistecheck[_G.key] then
 
